@@ -1,0 +1,19 @@
+.box{
+    background-color:white;
+    margin: 25px;
+    height: 290px;
+    width: 290px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 4px;
+
+}
+a{
+    text-decoration: underline !important;
+}
+.fa{
+    color: blue;
+}
+.parent{
+    background-color: rgb(226, 204, 217);
+}
